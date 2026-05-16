@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/eka-bikel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Eka Bikel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/eka-bikel/) |
+| **Get License** | [Obtain a Music License for Eka Bikel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/eka-bikel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6f3d3e15a673ef9334556fcf3054a04862a97a29866b708e413b58bf89a8ca8c` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

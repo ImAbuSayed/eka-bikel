@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/eka-bikel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Eka Bikel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/eka-bikel/) |
+| **Get License** | [Obtain a Music License for Eka Bikel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/eka-bikel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Song Name: "Eka Bikel"
+> Song Style: Melodic Romantic / Love / Emotional / Natural Poetry.. Not Complex Words..
+> Music Style: Melodic psychedelic hard rock, mid-tempo 90 BPM, blues fusion, raw powerful gritty energy, soul-touching vocals, distorted gritty blues guitar riffs, expressive lead solos with bends and slides, blues scale phrasing, warm overdriven bass, punchy acoustic drum kit, straight backbeat no shuffle, punchy snare and deep kick, dynamic drum fills, driving bass groove, intense rhythmic energy, anthemic stadium vocals, raspy emotional male vocal, smooth powerful female vocal, call and response duet, rich harmonies, hook-driven soaring chorus, high-pitched power tenor, wide stereo guitars, clean ambient guitar layers, centered vocals, plate reverb, delay throws, cinematic synths, subtle Hammond organ, atmospheric pads, lush strings, cinematic build-ups, tension and release, analog warmth saturation, crisp modern rock production, modern alt-rock style, raw soulful energy, clear Western instrumentation
+> চোখের নেশায় মাতাল করে, ডাকো আমায় কাছে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6f3d3e15a673ef9334556fcf3054a04862a97a29866b708e413b58bf89a8ca8c` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
